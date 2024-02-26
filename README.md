@@ -1,2 +1,2 @@
 # Libraries
- I have written libraries for strings and dates which I use in my projects. 
+ I have written libraries for strings, dates, periods, Input Validate, and Util which I use in my projects. 
