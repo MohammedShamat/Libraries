@@ -1,2 +1,2 @@
 # Libraries
-The libraries I use them in my projects.
+ I have written libraries for strings and dates which I use in my projects. 
